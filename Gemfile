@@ -17,7 +17,7 @@ gem 'jquery-rails'
 # font awesome rails
 gem 'font-awesome-rails'
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 #CarrierWave File upload
 gem 'carrierwave', '~>1.0'
 # Use SCSS for stylesheets
